@@ -8,8 +8,8 @@ I created Pakudex for my class in college, it is simply a project that I will be
 Master Branch (v1.0): Successful
 
 # Code Style
-UTF-8
-K & R Style
+- UTF-8
+- K & R Style
 
 # Framework
 Created using IntelliJ by JetBrains
