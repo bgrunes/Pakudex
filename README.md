@@ -23,6 +23,6 @@ Created using IntelliJ by JetBrains
 
 # Issues/Bugs
 No known bugs at this time.
-If you encounter an issue in this program, please create an issues file in GitHub and I will act on it as soon as I can.
+If you encounter an issue in this program, please create an issue commentation in GitHub and I will act on it as soon as I can.
 
 Brandon Grunes
